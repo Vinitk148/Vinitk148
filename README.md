@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **vkhatri1408@gmailc.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1ULu9MTRFfBJTT1RvNEVgKMQZ496pKPM-](https://drive.google.com/drive/folders/1ULu9MTRFfBJTT1RvNEVgKMQZ496pKPM-)
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1ULu9MTRFfBJTT1RvNEVgKMQZ496pKPM-](https://drive.google.com/file/d/13DDGRHaHh82wTUCQ55ntFcksWViq_nsy/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
