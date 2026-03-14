@@ -27,7 +27,7 @@ Flutter Developer with **1+ year of professional experience** building and shipp
 - 🛠️ Comfortable working **end-to-end**: UI → API → Backend → Deployment
 - 💬 Ask me about **Flutter, Dart, Firebase, RESTful APIs, Razorpay**
 - 📫 Reach me at **vkhatri1408@gmail.com**
-- 📄 View my resume: [Google Drive](https://drive.google.com/file/d/13DDGRHaHh82wTUCQ55ntFcksWViq_nsy/view?usp=drive_link)
+- 📄 View my resume: [Google Drive](https://drive.google.com/file/d/1FryriRvTJizKy_twyc3IiSnzcc6qsff-/view?usp=drive_link)
 - ⚡ Fun fact: I build apps that people actually use in production — not just side projects!
 
 ---
