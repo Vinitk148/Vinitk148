@@ -132,31 +132,6 @@ DevOps       → Git · GitHub · Postman · Play Store Deployment
 Architecture → Clean Architecture · MVC · Responsive UI · Performance Profiling
 ```
 
----
-
-## 🎓 Education
-
-| Degree | University | Year |
-|--------|-----------|------|
-| 🎓 MCA — Master of Computer Applications | JECRC University, Jaipur | 2023 – 2025 |
-| 🎓 BCA — Bachelor of Computer Applications | Maharaja Ganga Singh University, Bikaner | 2020 – 2023 |
-
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vinitk148&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=vinitk148&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
-</p>
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinitk148&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
 ## 🤝 Connect with Me
 
 <p align="left">
