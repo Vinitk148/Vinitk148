@@ -184,8 +184,8 @@ A beauty service booking platform allowing customers to schedule salon services 
 |---------|----------|---------|----------|
 | 📸 Picster | Personalized E-Commerce | Production | Android |
 | 🚗 Runaar | Ride Sharing | Production | Android |
-| 🛍️ Indipora | Multi Vendor Marketplace | Production | Android |
-| 🎓 Assignment 366 | Education | Production | Android |
+| 🛍️ Indipora | Multi Vendor Marketplace | DEvelopment | Android |
+| 🎓 Assignment 366 | Education | Development | Android |
 | 💄 BeautyGlad | Salon Booking | Production | Android | iOS
 
 ---
