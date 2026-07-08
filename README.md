@@ -20,7 +20,7 @@
 
 <img align="right" alt="Coding" width="380" src="https://camo.githubusercontent.com/7cab7453b50c32be4c3605a42cb5e509644666999796555e759d06a9facf6b4a/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966" />
 
-Flutter Developer with **1+ year of professional experience** building and shipping cross-platform mobile applications for Android and iOS. I specialize in translating complex UI/UX wireframes into pixel-perfect, performant apps — and I enjoy owning the full stack, from Flutter frontend to Node.js + MySQL backend.
+Flutter Developer with **2+ years of professional experience** building and shipping cross-platform mobile applications for Android and iOS. I specialize in translating complex UI/UX wireframes into pixel-perfect, performant apps — and I enjoy owning the full stack, from Flutter frontend to Node.js + MySQL backend.
 
 - 🔭 Currently building a **Car Pooling Application** (Runaar)
 - 🌱 Deepening expertise in **Flutter Architecture & Performance Optimization**
@@ -32,73 +32,175 @@ Flutter Developer with **1+ year of professional experience** building and shipp
 
 ---
 
-## 🚀 Featured Projects
+## 🏆 Achievements
 
-### 📸 Picster — Personalized Photo Products E-Commerce App
-> **Flutter · Node.js · MySQL · Firebase · Razorpay**
-
-A full-stack e-commerce platform for ordering customized printed products — frames, mugs, t-shirts, pillows, bottles, and pens — with real-time photo upload and dynamic personalization.
-
-**Key Highlights:**
-- 🛒 End-to-end product customization with dynamic photo upload and live preview
-- 💳 **Razorpay** payment gateway integration with order confirmation workflows, real-time payment status handling, and failure recovery
-- 🔐 **Role-based access control (RBAC)** — separate Admin and Customer roles with scoped permissions
-- 📦 Admin Panel with full **product CRUD**, inventory management, and order fulfillment dashboards
-- 🔔 **Firebase Cloud Messaging (FCM)** push notifications for real-time order status updates
-- ⭐ Product rating and review system to drive engagement and discoverability
-- 🗄️ Custom **Node.js + MySQL** backend with RESTful API design and JWT authentication
-
-| Layer | Technologies |
-|-------|-------------|
-| Mobile Frontend | Flutter, Dart, Provider |
-| Backend | Node.js, Express.js, MySQL |
-| Auth & Notifications | Firebase Auth, FCM |
-| Payments | Razorpay SDK |
+- 🚀 Developed and deployed multiple production Flutter applications
+- 📱 Built scalable Flutter + Node.js full-stack solutions
+- 💳 Integrated Razorpay Payment Gateway
+- 🔔 Implemented Firebase Authentication & Push Notifications
+- 📍 Worked with Google Maps, Geolocation & Real-time Tracking
+- ⚡ Optimized application performance and reduced memory usage
 
 ---
 
-### 🚗 Runaar — Smart Ride Sharing & Booking App
-> **Flutter · Google Maps SDK · Razorpay · Firebase · Provider**
+# 🚀 Projects Portfolio
 
-A production-ready ride-sharing platform supporting real-time ride booking, ride posting, and dynamic driver-passenger matching — with full in-app navigation and cashless payments.
+---
 
-**Key Highlights:**
-- 🗺️ **Google Maps SDK** integration — live route polyline rendering, geolocation tracking, and real-time ETA calculation
-- 💸 **Razorpay** cashless payment flow with transaction history and receipts
-- 🔔 In-app **push notifications** for ride status updates (booking confirmed, driver en route, ride completed)
-- ⭐ Driver rating system and full ride history for both drivers and passengers
-- ⚡ **30% reduction in memory usage** through lazy loading, image caching, and widget tree optimization
-- 🏗️ Provider-based state management with a modular UI architecture ensuring smooth performance on low-end and mid-range Android devices
+## 📸 Picster — Personalized Photo Products E-Commerce App
 
-| Layer | Technologies |
-|-------|-------------|
-| Mobile Frontend | Flutter, Dart, Provider |
-| Maps & Location | Google Maps SDK, Geolocator |
-| Notifications | Firebase FCM |
-| Payments | Razorpay SDK |
+> **Flutter • Node.js • MySQL • Firebase • Razorpay**
+
+A full-stack e-commerce platform for personalized gifting products where users can customize products with their own photos before placing orders.
+
+### Features
+- 🛍️ Personalized product customization
+- 📷 Image upload with live preview
+- 💳 Razorpay payment gateway
+- 🔔 Firebase Cloud Messaging notifications
+- 📦 Order tracking & management
+- ⭐ Ratings & Reviews
+- 🔐 JWT Authentication
+- 👨‍💼 Admin Panel for Products, Orders & Users
+- ☁️ Cloudinary image storage
+- 🌐 REST API with Node.js & MySQL
+
+**Tech Stack**
+`Flutter` • `Provider` • `Node.js` • `Express.js` • `MySQL` • `Firebase` • `Razorpay`
+
+### 📱 Available On
+
+- 🤖 **Android:** https://play.google.com/store/apps/details?id=com.picster.app
+---
+
+## 🚗 Runaar — Ride Sharing & Car Pooling Platform
+
+> **Flutter • Google Maps • Firebase • Razorpay**
+
+A smart ride-sharing platform connecting drivers and passengers with real-time ride booking, ride posting, secure payments, and live location tracking.
+
+### Features
+
+- 🚘 Ride Booking
+- 👥 Car Pooling
+- 📍 Google Maps Integration
+- 🛰️ Live Location Tracking
+- 💳 Razorpay Payments
+- 🔔 Push Notifications
+- ⭐ Driver Ratings & Reviews
+- 📜 Ride History
+- 📱 Responsive UI
+- ⚡ Optimized Performance
+
+**Tech Stack**
+`Flutter` • `Provider` • `Google Maps SDK` • `Firebase` • `Node.js`
+
+### 📱 Available On
+
+- 🤖 **Android:** https://play.google.com/store/apps/details?id=com.runaar.app
+---
+
+## 🌐 Indipora — Professional Networking & Career Platform
+
+> **Flutter • Node.js • MySQL • Firebase**
+A social networking and career platform that combines the best features of professional networking, social media, and job portals. Users can build professional profiles, share posts, connect with professionals, discover jobs, and communicate through real-time messaging—all within a single application.
+
+### Features
+
+- 👤 Professional Profile Creation
+- 🤝 Connect & Follow Professionals
+- 📝 Create, Like, Comment & Share Posts
+- 💼 Job Search & Job Applications
+- 🏢 Company Profiles & Job Listings
+- 💬 Real-Time Chat & Messaging
+- 🔔 Push Notifications
+- 🔍 Search People, Companies & Jobs
+- ❤️ Save Posts & Jobs
+- 📱 Responsive & Modern UI
+- 🔐 Secure Authentication & Role-Based Access
+  
+**Tech Stack**
+`Flutter` • `Provider` • `Node.js` • `Express.js` • `MySQL` • `Firebase` • `REST APIs`
+
+### 📱 Available On
+
+- 🤖 **Android:** https://play.google.com/store/apps/details?id=com.indipora.app
+---
+
+## 🎓 Assignment 366 — Assignment Management Platform
+
+> **Flutter • Firebase • REST APIs**
+
+A student-focused application for managing academic assignments, notes, submissions, and notifications.
+
+### Features
+
+- 📚 Assignment Upload
+- 📄 PDF & Document Support
+- 🔔 Notifications
+- 👨‍🎓 Student Dashboard
+- 👨‍🏫 Faculty Panel
+- 📥 Assignment Submission
+- 📈 Progress Tracking
+
+**Tech Stack**
+`Flutter` • `Firebase` • `REST APIs`
+
+### 📱 Available On
+- 🤖 **Android:** https://play.google.com/store/apps/details?id=com.app.assignment366
+
+---
+
+## 💄 BeautyGlad — Salon at Home Booking App
+
+> **Flutter • Firebase • Google Maps**
+
+A beauty service booking platform allowing customers to schedule salon services at home with real-time appointment management.
+
+### Features
+
+- 💇 Salon Service Booking
+- 📅 Appointment Scheduling
+- 📍 Service Location
+- 💳 Online Payments
+- ⭐ Ratings & Reviews
+- 🔔 Booking Notifications
+- 👩‍💼 Beautician Dashboard
+- 📜 Booking History
+
+**Tech Stack**
+`Flutter` • `Firebase` • `Google Maps` • `REST APIs`
+
+### 📱 Available On
+
+[![Google Play](https://img.shields.io/badge/Google_Play-Download-34A853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.picster.app)
+
+[![App Store](https://img.shields.io/badge/App_Store-Download-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/in/app/beautyglad-salon-at-home/id6753200073)
+
+---
+
+# 📊 Project Summary
+
+| Project | Category | Status | Platform |
+|---------|----------|---------|----------|
+| 📸 Picster | Personalized E-Commerce | Production | Android |
+| 🚗 Runaar | Ride Sharing | Production | Android |
+| 🛍️ Indipora | Multi Vendor Marketplace | Production | Android |
+| 🎓 Assignment 366 | Education | Production | Android |
+| 💄 BeautyGlad | Salon Booking | Production | Android | iOS
 
 ---
 
 ## 💼 Work Experience
 
 ### Flutter Developer — Kvon Tech Consultancy Services Pvt. Ltd.
-📅 **Aug 2025 – Present**
+📅 **Feb 2025 – Present**
 
 - Engineered production-ready Flutter features across multiple modules, working directly with UI/UX designers to ship pixel-perfect, responsive interfaces
 - Architected API integration layer between Flutter client and Node.js/MySQL backend, standardizing error handling and improving app stability
 - Refactored legacy code using clean architecture principles — improved maintainability and reduced bug density
 - Owned end-to-end Firebase integration: authentication, Firestore real-time sync, and FCM push pipelines
 - Active participant in Agile ceremonies: sprint planning, daily standups, and code reviews
-
----
-
-### Flutter Developer Intern — Kvon Tech Consultancy Services Pvt. Ltd.
-📅 **Feb 2025 – Aug 2025**
-
-- Contributed production-level features to live app releases across the full mobile development lifecycle
-- Implemented Provider state management architecture, eliminating redundant UI rebuilds
-- Integrated RESTful APIs and Firebase services with backend engineers for reliable real-time data sync
-- Built responsive widget layouts following Material Design guidelines for cross-device visual consistency
 
 ---
 
@@ -130,6 +232,17 @@ Payments     → Razorpay Payment Gateway
 Maps         → Google Maps SDK · Geolocator
 DevOps       → Git · GitHub · Postman · Play Store Deployment
 Architecture → Clean Architecture · MVC · Responsive UI · Performance Profiling
+```
+
+## 📈 GitHub Stats
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=vinitk148&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=vinitk148&theme=tokyonight"/>
+</p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinitk148&layout=compact&theme=tokyonight"/>
+</p>
 ```
 
 ## 🤝 Connect with Me
