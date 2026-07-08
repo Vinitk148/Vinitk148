@@ -69,8 +69,7 @@ A full-stack e-commerce platform for personalized gifting products where users c
 `Flutter` • `Provider` • `Node.js` • `Express.js` • `MySQL` • `Firebase` • `Razorpay`
 
 ### 📱 Available On
-
-- 🤖 **Android:** https://play.google.com/store/apps/details?id=com.picster.app
+- [![Google Play](https://img.shields.io/badge/Google_Play-Download-34A853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.picster.app)
 ---
 
 ## 🚗 Runaar — Ride Sharing & Car Pooling Platform
@@ -97,7 +96,7 @@ A smart ride-sharing platform connecting drivers and passengers with real-time r
 
 ### 📱 Available On
 
-- 🤖 **Android:** https://play.google.com/store/apps/details?id=com.runaar.app
+- [![Google Play](https://img.shields.io/badge/Google_Play-Download-34A853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.runaar.app)
 ---
 
 ## 🌐 Indipora — Professional Networking & Career Platform
@@ -124,7 +123,7 @@ A social networking and career platform that combines the best features of profe
 
 ### 📱 Available On
 
-- 🤖 **Android:** https://play.google.com/store/apps/details?id=com.indipora.app
+- [![Google Play](https://img.shields.io/badge/Google_Play-Download-34A853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.indipora.app)
 ---
 
 ## 🎓 Assignment 366 — Assignment Management Platform
@@ -147,7 +146,7 @@ A student-focused application for managing academic assignments, notes, submissi
 `Flutter` • `Firebase` • `REST APIs`
 
 ### 📱 Available On
-- 🤖 **Android:** https://play.google.com/store/apps/details?id=com.app.assignment366
+- [![Google Play](https://img.shields.io/badge/Google_Play-Download-34A853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.app.assignment366)
 
 ---
 
@@ -173,7 +172,7 @@ A beauty service booking platform allowing customers to schedule salon services 
 
 ### 📱 Available On
 
-[![Google Play](https://img.shields.io/badge/Google_Play-Download-34A853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.picster.app)
+[![Google Play](https://img.shields.io/badge/Google_Play-Download-34A853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.app.beautyglad)
 
 [![App Store](https://img.shields.io/badge/App_Store-Download-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/in/app/beautyglad-salon-at-home/id6753200073)
 
