@@ -231,18 +231,10 @@ Payments     → Razorpay Payment Gateway
 Maps         → Google Maps SDK · Geolocator
 DevOps       → Git · GitHub · Postman · Play Store Deployment
 Architecture → Clean Architecture · MVC · Responsive UI · Performance Profiling
+
 ```
 
-## 📈 GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vinitk148&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=vinitk148&theme=tokyonight"/>
-</p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinitk148&layout=compact&theme=tokyonight"/>
-</p>
-```
+## 
 
 ## 🤝 Connect with Me
 
