@@ -219,16 +219,17 @@ Tech Stack
 
 ---
 
-# 📊 Project Summary
+## 📊 Project Summary
 
 | Project | Category | Status | Platform |
-|---------|----------|---------|----------|
+|---------|----------|--------|----------|
 | 📸 Picster | Personalized E-Commerce | Production | Android |
-| 🚗 Runaar | Ride Sharing | Production | Android |
-| 🛍️ Indipora | Professional Networking & Career Platform | Development | Android |
+| 🚕 TilluG | Real-Time Mobility & Ride Sharing | Production | Android |
+| 🚗 Runaar | Ride Sharing & Car Pooling | Production | Android |
+| 🛍️ IndiPora | Professional Networking & Career | Development | Android |
 | 🎓 Assignment 366 | Education | Development | Android |
-| 💄 BeautyGlad | Salon Booking | Production | Android | iOS
-
+| 💄 BeautyGlad | Salon Booking | Production | Android / iOS |
+| 🛒 Grahmitra Vendor | Quick-Commerce Vendor Operations | Production | Android |
 ---
 
 ## 💼 Work Experience
@@ -264,16 +265,36 @@ Tech Stack
 ## 🧠 Tech Stack Overview
 
 ```
-Mobile       → Flutter · Dart · Android SDK · Widget Lifecycle
-State Mgmt   → Provider · setState
-Backend      → Node.js · Express.js · MySQL · JWT Auth · REST APIs
-Firebase     → Auth · Firestore · FCM · Storage
-Payments     → Razorpay Payment Gateway
-Maps         → Google Maps SDK · Geolocator
-DevOps       → Git · GitHub · Postman · Play Store Deployment
-Architecture → Clean Architecture · MVC · Responsive UI · Performance Profiling
-
+Mobile Development → Flutter · Dart · Android SDK · Native Platform Interfaces · Custom Widgets · Widget Lifecycle
+State Management → Provider · BLoC · Scoped State Architectures · setState
+Architecture → Clean Architecture · SOLID Principles · MVC · Scalable Application Architecture
+API & Networking → REST APIs · Dio · Asynchronous Networking · WebSockets · Socket.IO · API Error Handling
+Backend → Node.js · Express.js · MySQL · JWT Authentication
+Firebase → Firebase Authentication · Cloud Firestore · Firebase Cloud Messaging · Firebase Storage
+Real-Time Systems → WebSockets · Socket.IO · Real-Time Messaging · Live Location Tracking · Event-Driven Updates
+Payments → Razorpay Payment Gateway · Secure Transaction Flows
+Maps & Location → Google Maps SDK · Geolocation · Location Streams · Route Visualization · Real-Time Tracking
+Testing → Unit Testing · Widget Testing · Integration Testing · End-to-End Testing · 80%+ Test Coverage
+Performance → RepaintBoundary · Custom Image Caching · Widget Redraw Optimization · Cold-Start Optimization · Memory Optimization
+DevOps & Deployment → Git · GitHub · GitHub Actions · CI/CD · Google Play Console · Secure Cryptographic Signing
+Development Tools → VS Code · Android Studio · Xcode · Postman · Figma
+Development Methodology → Agile · Sprint Planning · Daily Standups · Code Reviews
 ```
+
+##🎓 Education
+
+### Master of Computer Applications (MCA)
+
+JECRC University — Jaipur, India
+
+📅 July 2023 – June 2025
+
+
+### Bachelor of Computer Applications (BCA)
+
+Maharaja Ganga Singh University — Bikaner, India
+
+📅 July 2020 – June 2023
 
 ## 
 
