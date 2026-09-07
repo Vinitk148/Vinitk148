@@ -16,31 +16,42 @@
 
 ---
 
-## 🧑‍💻 About Me
+🧑‍💻 About Me
 
-<img align="right" alt="Coding" width="380" src="https://camo.githubusercontent.com/7cab7453b50c32be4c3605a42cb5e509644666999796555e759d06a9facf6b4a/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966" />
+<img align="right" alt="Coding" width="380" src="https://camo.githubusercontent.com/7cab7453b50c32be4c3605a42cb5e509644666999796555e759d06a9facf6b4a/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b735f6769665f6472696262626c652e676966" />
 
-Flutter Developer with **2+ years of professional experience** building and shipping cross-platform mobile applications for Android and iOS. I specialize in translating complex UI/UX wireframes into pixel-perfect, performant apps — and I enjoy owning the full stack, from Flutter frontend to Node.js + MySQL backend.
-
-- 🔭 Currently building a **Car Pooling Application** (Runaar)
-- 🌱 Deepening expertise in **Flutter Architecture & Performance Optimization**
-- 🛠️ Comfortable working **end-to-end**: UI → API → Backend → Deployment
-- 💬 Ask me about **Flutter, Dart, Firebase, RESTful APIs, Razorpay**
-- 📫 Reach me at **vkhatri1408@gmail.com**
-- 📄 View my resume: [Google Drive](https://drive.google.com/file/d/1hkohPHWI9AnBf5RUAqe_sfPJy2pkbR3a/view?usp=drive_link)
-- ⚡ Fun fact: I build apps that people actually use in production — not just side projects!
+Mobile Application Engineer with 1.6+ years of specialized experience building and shipping high-performance cross-platform applications for Android and iOS.
+I specialize in Flutter & Dart, Clean Architecture, SOLID principles, scalable state management, real-time communication, API integrations, and performance optimization.
+🔭 Currently working on cross-platform mobile applications and end-to-end consulting projects
+🌱 Deepening expertise in Flutter Architecture, BLoC, Clean Architecture & Performance Optimization
+🛠️ Comfortable working across the complete development lifecycle: UI → State Management → API → Backend → Testing → CI/CD → Deployment
+⚡ Experienced in optimizing application performance with RepaintBoundary, custom image caching, and efficient rendering strategies
+🧪 Experienced with Unit Testing, Widget Testing and End-to-End Integration Testing
+🔌 Experienced with REST APIs, Dio, WebSockets and Socket.IO real-time communication
+☁️ Experienced with Firebase Authentication, Cloud Firestore, FCM and Firebase Storage
+💳 Experienced with Razorpay Payment Gateway integration
+📍 Experienced with Google Maps SDK, Geolocation and real-time location tracking
+📫 Reach me at vkhatri1408@gmail.com
+📄 View my resume: Google Drive
+⚡ Fun fact: I build production-ready applications with a strong focus on performance, scalability and maintainability.
 
 ---
 
-## 🏆 Achievements
+🏆 Achievements
 
-- 🚀 Developed and deployed multiple production Flutter applications
-- 📱 Built scalable Flutter + Node.js full-stack solutions
-- 💳 Integrated Razorpay Payment Gateway
-- 🔔 Implemented Firebase Authentication & Push Notifications
-- 📍 Worked with Google Maps, Geolocation & Real-time Tracking
-- ⚡ Optimized application performance and reduced memory usage
-
+🚀 Delivered 5 production-ready Android/iOS applications to global market platforms
+📱 Built scalable cross-platform Flutter applications using Clean Architecture and SOLID principles
+⚡ Improved application cold-start performance by approximately 30%
+🎯 Reduced redundant widget redraw/rendering paths by approximately 40%
+🧪 Established Unit, Widget and End-to-End testing workflows with 80%+ baseline code coverage
+🔌 Implemented real-time communication using WebSockets and Socket.IO
+☁️ Implemented Firebase Authentication, Cloud Firestore, FCM and secure asset storage
+💳 Integrated Razorpay payment gateway and secure transaction workflows
+📍 Built real-time location tracking and interactive map experiences using Google Maps SDK
+🚀 Implemented CI/CD automation using GitHub Actions
+🔐 Worked with secure authentication, session/token handling and cryptographic signing
+🧩 Built reusable UI components and scalable state-management architectures
+🛠️ Delivered multiple full-stack mobile solutions using Flutter, Node.js and MySQL
 ---
 
 # 🚀 Projects Portfolio
@@ -72,7 +83,7 @@ A full-stack e-commerce platform for personalized gifting products where users c
 - [![Google Play](https://img.shields.io/badge/Google_Play-Download-34A853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.picster.app)
 ---
 
-## 🚗 Runaar — Ride Sharing & Car Pooling Platform
+## 🚗 TilluG — Ride Sharing & Car Pooling Platform
 
 > **Flutter • Google Maps • Firebase • Razorpay**
 
@@ -96,7 +107,7 @@ A smart ride-sharing platform connecting drivers and passengers with real-time r
 
 ### 📱 Available On
 
-- [![Google Play](https://img.shields.io/badge/Google_Play-Download-34A853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.runaar.app)
+- [![Google Play](https://img.shields.io/badge/Google_Play-Download-34A853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.tillug.app)
 ---
 
 ## 🌐 Indipora — Professional Networking & Career Platform
@@ -177,6 +188,33 @@ A beauty service booking platform allowing customers to schedule salon services 
 [![App Store](https://img.shields.io/badge/App_Store-Download-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/in/app/beautyglad-salon-at-home/id6753200073)
 
 ---
+🛒 Grahmitra Vendor — Quick-Commerce Vendor Operations Portal
+
+> **Flutter • REST APIs • Firebase • Provider**
+
+A vendor-focused quick-commerce application designed to manage products, inventory, pricing, orders and fulfillment operations from a centralized mobile platform.
+
+##Features
+
+📦 Product Catalog Management
+📊 Inventory Synchronization
+🛍️ Order Lifecycle Management
+💰 Pricing Management
+🚚 Fulfillment Workflows
+🔄 REST API Integration
+🔥 Firebase Integration
+🧠 Provider State Management
+🧩 Reusable UI Components
+📱 Responsive Vendor Dashboard
+⚡ Optimized Data Handling
+
+Tech Stack
+
+`Flutter` • `Dart` • `Provider` • `REST APIs` • `Firebase`
+
+###📱 Available On
+[![Google Play](https://img.shields.io/badge/Google_Play-Download-34A853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.app.grahmitrabusiness)
+
 
 # 📊 Project Summary
 
