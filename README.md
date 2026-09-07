@@ -1,10 +1,10 @@
 <div align="center">
 
-![MasterHead](https://technorizen.com/wp-assets/training/flutter-banner.jpg)
 
-# Hi 👋, I'm Vineet Khatri
 
-### Flutter Developer · Mobile Application Engineer · Full-Stack Mobile Builder
+Hi 👋, I'm Vineet Khatri
+
+Flutter Developer · Mobile Application Engineer · Full-Stack Mobile Builder
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=vinitk148&label=Profile%20views&color=0054a6&style=for-the-badge" alt="vinitk148" />
@@ -14,196 +14,363 @@
 
 </div>
 
----
+🧑‍💻 About Me
 
-## 🧑‍💻 About Me
+<img align="right" alt="Coding" width="380" src="https://camo.githubusercontent.com/7cab7453b50c32be4c3605a42cb5e509644666999796555e759d06a9facf6b4a/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b735f6769665f6472696262626c652e676966" />
 
-<img align="right" alt="Coding" width="380" src="https://camo.githubusercontent.com/7cab7453b50c32be4c3605a42cb5e509644666999796555e759d06a9facf6b4a/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966" />
+Flutter / Mobile Application Engineer with 1.6+ years of specialized professional experience building and shipping high-performance cross-platform Android and iOS applications. I work across the complete engineering lifecycle — from translating Figma/UI designs into responsive Flutter interfaces to integrating APIs, backend services, real-time communication, payments, testing, CI/CD and production deployment.
 
-Flutter Developer with **2+ years of professional experience** building and shipping cross-platform mobile applications for Android and iOS. I specialize in translating complex UI/UX wireframes into pixel-perfect, performant apps — and I enjoy owning the full stack, from Flutter frontend to Node.js + MySQL backend.
+🔭 Currently working on production-focused Flutter & mobile application development
 
-- 🔭 Currently building a **Car Pooling Application** (Runaar)
-- 🌱 Deepening expertise in **Flutter Architecture & Performance Optimization**
-- 🛠️ Comfortable working **end-to-end**: UI → API → Backend → Deployment
-- 💬 Ask me about **Flutter, Dart, Firebase, RESTful APIs, Razorpay**
-- 📫 Reach me at **vkhatri1408@gmail.com**
-- 📄 View my resume: [Google Drive](https://drive.google.com/file/d/1hkohPHWI9AnBf5RUAqe_sfPJy2pkbR3a/view?usp=drive_link)
-- ⚡ Fun fact: I build apps that people actually use in production — not just side projects!
+🏗️ Experienced with Clean Architecture, SOLID principles, BLoC and Provider
 
----
+⚡ Performance-focused: achieved 30% faster cold starts and 40% reduction in redundant widget redraws
 
-## 🏆 Achievements
+🧪 Experienced with Unit Testing, Widget Testing and End-to-End integration validation, with 80%+ baseline test coverage
 
-- 🚀 Developed and deployed multiple production Flutter applications
-- 📱 Built scalable Flutter + Node.js full-stack solutions
-- 💳 Integrated Razorpay Payment Gateway
-- 🔔 Implemented Firebase Authentication & Push Notifications
-- 📍 Worked with Google Maps, Geolocation & Real-time Tracking
-- ⚡ Optimized application performance and reduced memory usage
+🌐 Comfortable with Dio, REST APIs, WebSockets, Socket.IO and caching layers
 
----
+🔥 Hands-on with Firebase Auth, Firestore, FCM and Firebase Storage
 
-# 🚀 Projects Portfolio
+💳 Integrated Razorpay, Google Maps SDK, geolocation and real-time location tracking
 
----
+🚀 Experienced with GitHub Actions, Google Play Console and secure app signing
 
-## 📸 Picster — Personalized Photo Products E-Commerce App
+💬 Ask me about Flutter, Dart, BLoC, Provider, Firebase, Node.js, MySQL, REST APIs and Socket.IO
 
-> **Flutter • Node.js • MySQL • Firebase • Razorpay**
+📫 Reach me at vkhatri1408@gmail.com
+
+🏆 Achievements
+
+🚀 Delivered 5 production-ready Android/iOS applications across multiple real-world domains
+
+⚡ Improved application cold-start performance by 30%
+
+🎯 Reduced redundant widget redraw paths by 40% using performance-focused rendering techniques
+
+🧪 Established testing practices with 80%+ baseline code coverage
+
+🔄 Built low-latency real-time communication and location-tracking workflows
+
+🏗️ Applied Clean Architecture and SOLID principles to improve maintainability and scalability
+
+🔐 Implemented secure authentication, token handling and role-based access workflows
+
+🚢 Built automated CI/CD distribution workflows using GitHub Actions
+
+🚀 Projects Portfolio
+
+📸 Picster — Personalized Photo Products E-Commerce App
+
+Flutter • Node.js • MySQL • Firebase • Razorpay
 
 A full-stack e-commerce platform for personalized gifting products where users can customize products with their own photos before placing orders.
 
-### Features
-- 🛍️ Personalized product customization
-- 📷 Image upload with live preview
-- 💳 Razorpay payment gateway
-- 🔔 Firebase Cloud Messaging notifications
-- 📦 Order tracking & management
-- ⭐ Ratings & Reviews
-- 🔐 JWT Authentication
-- 👨‍💼 Admin Panel for Products, Orders & Users
-- ☁️ Cloudinary image storage
-- 🌐 REST API with Node.js & MySQL
+Features
 
-**Tech Stack**
-`Flutter` • `Provider` • `Node.js` • `Express.js` • `MySQL` • `Firebase` • `Razorpay`
+🛍️ Personalized product customization
 
-### 📱 Available On
-- [![Google Play](https://img.shields.io/badge/Google_Play-Download-34A853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.picster.app)
----
+📷 Image upload with live preview
 
-## 🚗 Runaar — Ride Sharing & Car Pooling Platform
+💳 Razorpay payment gateway
 
-> **Flutter • Google Maps • Firebase • Razorpay**
+🔔 Firebase Cloud Messaging notifications
+
+📦 Order tracking & management
+
+⭐ Ratings & Reviews
+
+🔐 JWT Authentication
+
+👨‍💼 Admin Panel for Products, Orders & Users
+
+☁️ Cloudinary image storage
+
+🌐 REST API with Node.js & MySQL
+
+Tech Stack
+Flutter • Provider • Node.js • Express.js • MySQL • Firebase • Razorpay
+
+📱 Available On
+
+
+
+🚗 Runaar — Ride Sharing & Car Pooling Platform
+
+Flutter • Google Maps • Firebase • Razorpay
 
 A smart ride-sharing platform connecting drivers and passengers with real-time ride booking, ride posting, secure payments, and live location tracking.
 
-### Features
+Features
 
-- 🚘 Ride Booking
-- 👥 Car Pooling
-- 📍 Google Maps Integration
-- 🛰️ Live Location Tracking
-- 💳 Razorpay Payments
-- 🔔 Push Notifications
-- ⭐ Driver Ratings & Reviews
-- 📜 Ride History
-- 📱 Responsive UI
-- ⚡ Optimized Performance
+🚘 Ride Booking
 
-**Tech Stack**
-`Flutter` • `Provider` • `Google Maps SDK` • `Firebase` • `Node.js`
+👥 Car Pooling
 
-### 📱 Available On
+📍 Google Maps Integration
 
-- [![Google Play](https://img.shields.io/badge/Google_Play-Download-34A853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.runaar.app)
----
+🛰️ Live Location Tracking
 
-## 🌐 Indipora — Professional Networking & Career Platform
+💳 Razorpay Payments
 
-> **Flutter • Node.js • MySQL • Firebase**
+🔔 Push Notifications
+
+⭐ Driver Ratings & Reviews
+
+📜 Ride History
+
+📱 Responsive UI
+
+⚡ Optimized Performance
+
+Tech Stack
+Flutter • Provider • Google Maps SDK • Firebase • Node.js
+
+📱 Available On
+
+
+
+🌐 Indipora — Professional Networking & Career Platform
+
+Flutter • Node.js • MySQL • Firebase
 A social networking and career platform that combines the best features of professional networking, social media, and job portals. Users can build professional profiles, share posts, connect with professionals, discover jobs, and communicate through real-time messaging—all within a single application.
 
-### Features
+Features
 
-- 👤 Professional Profile Creation
-- 🤝 Connect & Follow Professionals
-- 📝 Create, Like, Comment & Share Posts
-- 💼 Job Search & Job Applications
-- 🏢 Company Profiles & Job Listings
-- 💬 Real-Time Chat & Messaging
-- 🔔 Push Notifications
-- 🔍 Search People, Companies & Jobs
-- ❤️ Save Posts & Jobs
-- 📱 Responsive & Modern UI
-- 🔐 Secure Authentication & Role-Based Access
-  
-**Tech Stack**
-`Flutter` • `Provider` • `Node.js` • `Express.js` • `MySQL` • `Firebase` • `REST APIs`
+👤 Professional Profile Creation
 
-### 📱 Available On
+🤝 Connect & Follow Professionals
 
-- [![Google Play](https://img.shields.io/badge/Google_Play-Download-34A853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.indipora.app)
----
+📝 Create, Like, Comment & Share Posts
 
-## 🎓 Assignment 366 — Assignment Management Platform
+💼 Job Search & Job Applications
 
-> **Flutter • Firebase • REST APIs**
+🏢 Company Profiles & Job Listings
+
+💬 Real-Time Chat & Messaging
+
+🔔 Push Notifications
+
+🔍 Search People, Companies & Jobs
+
+❤️ Save Posts & Jobs
+
+📱 Responsive & Modern UI
+
+🔐 Secure Authentication & Role-Based Access
+
+Tech Stack
+Flutter • Provider • Node.js • Express.js • MySQL • Firebase • REST APIs
+
+📱 Available On
+
+
+
+🚕 TilluG — Real-Time Mobility & Ride-Sharing Platform
+
+Flutter • Google Maps SDK • WebSockets • Provider
+
+A real-time mobility platform focused on passenger-driver coordination, routing and live location experiences.
+
+Features
+
+🚗 Passenger & Driver Workflows
+
+📍 Google Maps Integration
+
+🛰️ Asynchronous Live Location Streams
+
+🗺️ Real-Time Route & Map Projections
+
+⚡ Low-Latency Location Updates
+
+🧭 Real-Time Mobility Tracking
+
+📱 Responsive Mobile UI
+
+🏗️ Clean Architecture
+
+Tech Stack
+Flutter • Provider • Google Maps SDK • WebSockets
+
+🛒 Grahmitra Vendor — Quick-Commerce Vendor Operations Portal
+
+Flutter • REST APIs • Firebase • Provider
+
+A vendor-facing commerce application covering catalog, inventory, pricing, orders and fulfillment workflows.
+
+Features
+
+📦 Catalog Administration
+
+📊 Inventory Synchronization
+
+🛍️ Order Lifecycle Management
+
+💰 Product Pricing Management
+
+🚚 Fulfillment Workflows
+
+🔄 REST API Integration
+
+🔥 Firebase Integration
+
+🧩 Provider-Based State Orchestration
+
+♻️ Reusable UI Components
+
+Tech Stack
+Flutter • Provider • REST APIs • Firebase
+
+🎓 Assignment 366 — Assignment Management Platform
+
+Flutter • Firebase • REST APIs
 
 A student-focused application for managing academic assignments, notes, submissions, and notifications.
 
-### Features
+Features
 
-- 📚 Assignment Upload
-- 📄 PDF & Document Support
-- 🔔 Notifications
-- 👨‍🎓 Student Dashboard
-- 👨‍🏫 Faculty Panel
-- 📥 Assignment Submission
-- 📈 Progress Tracking
+📚 Assignment Upload
 
-**Tech Stack**
-`Flutter` • `Firebase` • `REST APIs`
+📄 PDF & Document Support
 
-### 📱 Available On
-- [![Google Play](https://img.shields.io/badge/Google_Play-Download-34A853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.app.assignment366)
+🔔 Notifications
 
----
+👨‍🎓 Student Dashboard
 
-## 💄 BeautyGlad — Salon at Home Booking App
+👨‍🏫 Faculty Panel
 
-> **Flutter • Firebase • Google Maps**
+📥 Assignment Submission
+
+📈 Progress Tracking
+
+Tech Stack
+Flutter • Firebase • REST APIs
+
+📱 Available On
+
+
+
+💄 BeautyGlad — Salon at Home Booking App
+
+Flutter • Firebase • Google Maps
 
 A beauty service booking platform allowing customers to schedule salon services at home with real-time appointment management.
 
-### Features
+Features
 
-- 💇 Salon Service Booking
-- 📅 Appointment Scheduling
-- 📍 Service Location
-- 💳 Online Payments
-- ⭐ Ratings & Reviews
-- 🔔 Booking Notifications
-- 👩‍💼 Beautician Dashboard
-- 📜 Booking History
+💇 Salon Service Booking
 
-**Tech Stack**
-`Flutter` • `Firebase` • `Google Maps` • `REST APIs`
+📅 Appointment Scheduling
 
-### 📱 Available On
+📍 Service Location
 
-[![Google Play](https://img.shields.io/badge/Google_Play-Download-34A853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.app.beautyglad)
+💳 Online Payments
 
-[![App Store](https://img.shields.io/badge/App_Store-Download-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/in/app/beautyglad-salon-at-home/id6753200073)
+⭐ Ratings & Reviews
 
----
+🔔 Booking Notifications
 
-# 📊 Project Summary
+👩‍💼 Beautician Dashboard
 
-| Project | Category | Status | Platform |
-|---------|----------|---------|----------|
-| 📸 Picster | Personalized E-Commerce | Production | Android |
-| 🚗 Runaar | Ride Sharing | Production | Android |
-| 🛍️ Indipora | Professional Networking & Career Platform | Development | Android |
-| 🎓 Assignment 366 | Education | Development | Android |
-| 💄 BeautyGlad | Salon Booking | Production | Android | iOS
+📜 Booking History
 
----
+Tech Stack
+Flutter • Firebase • Google Maps • REST APIs
 
-## 💼 Work Experience
+📱 Available On
 
-### Flutter Developer — Kvon Tech Consultancy Services Pvt. Ltd.
-📅 **Feb 2025 – Present**
 
-- Engineered production-ready Flutter features across multiple modules, working directly with UI/UX designers to ship pixel-perfect, responsive interfaces
-- Architected API integration layer between Flutter client and Node.js/MySQL backend, standardizing error handling and improving app stability
-- Refactored legacy code using clean architecture principles — improved maintainability and reduced bug density
-- Owned end-to-end Firebase integration: authentication, Firestore real-time sync, and FCM push pipelines
-- Active participant in Agile ceremonies: sprint planning, daily standups, and code reviews
 
----
 
-## 🛠️ Languages & Tools
+
+📊 Project Summary
+
+Project
+
+Category
+
+Status
+
+Platform
+
+📸 Picster
+
+Personalized E-Commerce
+
+Production
+
+Android
+
+🚗 Runaar
+
+Ride Sharing
+
+Production
+
+Android
+
+🛍️ Indipora
+
+Professional Networking & Career Platform
+
+Development
+
+Android
+
+🎓 Assignment 366
+
+Education
+
+Development
+
+Android
+
+💄 BeautyGlad
+
+Salon Booking
+
+Production
+
+Android
+
+iOS
+
+💼 Work Experience
+
+Software Engineer Intern — Kvon Tech Consultancy Services Pvt. Ltd.
+
+📅 Feb 2025 – June 2025
+
+🚕 Engineered core mobility structures for TilluG, including low-latency passenger-driver pairing and routing workflows
+
+📍 Built custom Google Maps SDK layers for real-time mobility and location experiences
+
+🏗️ Implemented Clean Architecture boundaries, separating presentation concerns from core business domains
+
+⚡ Designed architecture suitable for robust real-time tracking features and responsive map interactions
+
+Independent Mobile Software Consultant / Contract Engineer
+
+📅 Feb 2025 – Present
+
+📱 Delivered 3 comprehensive cross-platform mobile platforms end-to-end from Figma designs to production-ready applications
+
+🎨 Converted pixel-perfect UI/UX designs into adaptive, device-independent Flutter interfaces
+
+🧪 Established Unit, Widget and integration testing practices achieving 80%+ baseline test coverage
+
+⚡ Reduced cold-start latency by 30% through performance optimization
+
+🎯 Reduced structural widget redraw paths by 40% using RepaintBoundary isolation and custom image-caching strategies
+
+🔄 Built asynchronous API and real-time communication layers using Dio, REST APIs, WebSockets and Socket.IO
+
+🚀 Created GitHub Actions CI/CD workflows for automated application compilation and distribution
+
+🔐 Worked with secure authentication, token handling and production deployment workflows
+
+🛠️ Languages & Tools
 
 <p align="left">
   <a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/></a>&nbsp;&nbsp;
@@ -218,25 +385,30 @@ A beauty service booking platform allowing customers to schedule salon services 
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/></a>
 </p>
 
----
+🧠 Tech Stack Overview
 
-## 🧠 Tech Stack Overview
-
-```
-Mobile       → Flutter · Dart · Android SDK · Widget Lifecycle
-State Mgmt   → Provider · setState
-Backend      → Node.js · Express.js · MySQL · JWT Auth · REST APIs
+Mobile       → Flutter · Dart · Android SDK · Native Platform Interfaces · Custom Widgets · Widget Lifecycle
+State Mgmt   → BLoC · Provider · Scoped State · setState
+Backend      → Node.js · Express.js · MySQL · JWT Auth · REST APIs · Dio · WebSockets · Socket.IO · Caching
 Firebase     → Auth · Firestore · FCM · Storage
+Testing      → Unit Testing · Widget Testing · Integration / E2E Validation · 80%+ Coverage
 Payments     → Razorpay Payment Gateway
 Maps         → Google Maps SDK · Geolocator
-DevOps       → Git · GitHub · Postman · Play Store Deployment
-Architecture → Clean Architecture · MVC · Responsive UI · Performance Profiling
+DevOps       → Git · GitHub · GitHub Actions · Postman · Play Console · Secure Signing
+Architecture → Clean Architecture · SOLID · MVC · BLoC · Provider · Responsive UI · Performance Profiling · RepaintBoundary
 
-```
 
-## 
 
-## 🤝 Connect with Me
+
+🎓 Academic Foundation
+
+Master of Computer Applications (MCA) — JECRC University, Jaipur, India
+July 2023 – June 2025
+
+Bachelor of Computer Applications (BCA) — Maharaja Ganga Singh University, Bikaner, India
+July 2020 – June 2023
+
+🤝 Connect with Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/vinit-khatri-b7364b28b/" target="_blank">
@@ -249,8 +421,6 @@ Architecture → Clean Architecture · MVC · Responsive UI · Performance Profi
     <img src="https://img.shields.io/badge/GitHub-vinitk148-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-
----
 
 <div align="center">
   <i>"Building apps that solve real problems — one widget at a time."</i>
