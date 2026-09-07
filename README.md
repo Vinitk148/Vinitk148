@@ -1,6 +1,6 @@
 <div align="center">
 
-![MasterHead](https://technorizen.com/wp-assets/training/flutter-banner.jpg)
+![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMgpjQHNeuU4wwKKvyPLnccyvfsDTCmUPcZhJQBn6PIA&s=10)
 
 # Hi 👋, I'm Vineet Khatri
 
