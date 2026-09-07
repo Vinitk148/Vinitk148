@@ -157,6 +157,7 @@ A student-focused application for managing academic assignments, notes, submissi
 `Flutter` • `Firebase` • `REST APIs`
 
 ### 📱 Available On
+
 - [![Google Play](https://img.shields.io/badge/Google_Play-Download-34A853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.app.assignment366)
 
 ---
