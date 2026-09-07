@@ -4,7 +4,7 @@
 
 # Hi 👋, I'm Vineet Khatri
 
-### Flutter Developer · Mobile Application Engineer · Full-Stack Mobile Builder
+### Flutter Developer · Mobile Application Engineer · Full-Stack Mobile Builder · Software Engineer
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=vinitk148&label=Profile%20views&color=0054a6&style=for-the-badge" alt="vinitk148" />
@@ -18,21 +18,21 @@
 
 🧑‍💻 About Me
 
-<img align="right" alt="Coding" width="380" src="https://camo.githubusercontent.com/7cab7453b50c32be4c3605a42cb5e509644666999796555e759d06a9facf6b4a/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b735f6769665f6472696262626c652e676966" />
+<!-- <img align="right" alt="Coding" width="380" src="https://camo.githubusercontent.com/7cab7453b50c32be4c3605a42cb5e509644666999796555e759d06a9facf6b4a/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b735f6769665f6472696262626c652e676966" /> -->
 
-Mobile Application Engineer with 1.6+ years of specialized experience building and shipping high-performance cross-platform applications for Android and iOS.
-I specialize in Flutter & Dart, Clean Architecture, SOLID principles, scalable state management, real-time communication, API integrations, and performance optimization.
-🔭 Currently working on cross-platform mobile applications and end-to-end consulting projects
-🌱 Deepening expertise in Flutter Architecture, BLoC, Clean Architecture & Performance Optimization
-🛠️ Comfortable working across the complete development lifecycle: UI → State Management → API → Backend → Testing → CI/CD → Deployment
-⚡ Experienced in optimizing application performance with RepaintBoundary, custom image caching, and efficient rendering strategies
-🧪 Experienced with Unit Testing, Widget Testing and End-to-End Integration Testing
-🔌 Experienced with REST APIs, Dio, WebSockets and Socket.IO real-time communication
-☁️ Experienced with Firebase Authentication, Cloud Firestore, FCM and Firebase Storage
-💳 Experienced with Razorpay Payment Gateway integration
-📍 Experienced with Google Maps SDK, Geolocation and real-time location tracking
-📫 Reach me at vkhatri1408@gmail.com
-📄 View my resume: Google Drive
+Mobile Application Engineer with 1.6+ years of specialized experience building and shipping high-performance cross-platform applications for Android and iOS.<br>
+I specialize in Flutter & Dart, Clean Architecture, SOLID principles, scalable state management, real-time communication, API integrations, and performance optimization.<br>
+🔭 Currently working on cross-platform mobile applications and end-to-end consulting projects<br>
+🌱 Deepening expertise in Flutter Architecture, BLoC, Clean Architecture & Performance Optimization<br>
+🛠️ Comfortable working across the complete development lifecycle: UI → State Management → API → Backend → Testing → CI/CD → Deployment<br>
+⚡ Experienced in optimizing application performance with RepaintBoundary, custom image caching, and efficient rendering strategies<br>
+🧪 Experienced with Unit Testing, Widget Testing and End-to-End Integration Testing<br>
+🔌 Experienced with REST APIs, Dio, WebSockets and Socket.IO real-time communication<br>
+☁️ Experienced with Firebase Authentication, Cloud Firestore, FCM and Firebase Storage<br>
+💳 Experienced with Razorpay Payment Gateway integration<br>
+📍 Experienced with Google Maps SDK, Geolocation and real-time location tracking<br>
+📫 Reach me at vkhatri1408@gmail.com<br>
+📄 View my resume: Google Drive<br>
 ⚡ Fun fact: I build production-ready applications with a strong focus on performance, scalability and maintainability.
 
 ---
